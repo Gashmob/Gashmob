@@ -21,5 +21,6 @@ Mes projets terminés :
 
 ---
 
-Quelques phrases que je voulais placer
-`Ils ne savaient pas que c'était impossible, donc ils l'ont fait`, `Si ça ne rentre pas, ce n'est pas la boite qui est trop étroite, c'est votre esprit`
+Quelques phrases que je voulais placer :
+- `Ils ne savaient pas que c'était impossible, donc ils l'ont fait`
+- `Si ça ne rentre pas, ce n'est pas la boite qui est trop étroite, c'est votre esprit`
