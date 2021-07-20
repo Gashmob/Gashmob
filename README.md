@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Gashmob&color=green&style=flat-square&label=Vues)
 
-Je suis étudiant en 3ème année de licence informatique à l'université Savoie Mont-Blanc.
+Je suis étudiant en 2ème année à l'Ensimag dans la filière Ingénierie des Systèmes d'Information.
 
 ---
 
