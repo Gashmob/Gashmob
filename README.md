@@ -16,7 +16,7 @@ En ce moment je bosse sur plusieurs projet :
 Mes projets terminés :
 - **[RandomSentence](https://github.com/TP-TD-Informatique/RandomSentence)** une appli android réalisé dans le cadre d'un tp sur le sujet de *listes aléatoire*. Cette appli utilise un petit programme que j'avais déjà réalisé [Sentence Generator](https://github.com/Gashmob/Sentence-Generator)
 - Un [logger](https://github.com/Asteomount/Logger) réalisé en plusieurs langages (Java, Kotlin, C, C++, Python). Il utilise toujours le même principe.
-- - **[Feeljob](https://github.com/Gashmob/Feeljob)** un site web de mise en relation entre chercheurs d'emploi et entreprise mais aussi entre particulier et auto-entrepreneur. Il s'agit de mon premier projet pour un client dans le cadre d'un module universitaire.
+- **[Feeljob](https://github.com/Gashmob/Feeljob)** un site web de mise en relation entre chercheurs d'emploi et entreprise mais aussi entre particulier et auto-entrepreneur. Il s'agit de mon premier projet pour un client dans le cadre d'un module universitaire.
 
 ---
 
