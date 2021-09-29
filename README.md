@@ -6,7 +6,7 @@ Je suis étudiant en 2ème année à l'Ensimag dans la filière Ingénierie des 
 
 ---
 
-En ce moment je bosse sur un gros projet qui en compte plusieurs : **Asteomount**. Il s'agit d'un groupe de développeur qui font de l'open source. Ils sont sur Gitlab : https://gitlab.com/Asteomount
+En ce moment je bosse sur un gros projet qui en compte plusieurs : **Asteomount**. Il s'agit d'un groupe de développeur qui font de l'open source. Ils sont sur Gitlab : https://gitlab.com/Asteomount. De ce fait je ne vais plus avoir beaucoup d'activité sur Github, mais plus sur Gitlab.
 
 ---
 
