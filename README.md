@@ -6,7 +6,7 @@ Je suis étudiant en 2ème année à l'Ensimag dans la filière Ingénierie des 
 
 ---
 
-En ce moment je bosse sur un gros projet qui en compte plusieurs : **Asteomount**. Il s'agit d'un groupe de développeur qui font de l'open source. Ils sont sur Gitlab : https://gitlab.com/Asteomount. De ce fait je ne vais plus avoir beaucoup d'activité sur Github, mais plus sur Gitlab.
+En ce moment je bosse sur un gros projet : **[Fil](https://github.com/Gashmob/Fil)**, un langage de programmation entier que j'ai l'intention d'utiliser ensuite pour faire un système d'exploitation utilisable.
 
 ---
 
@@ -23,3 +23,4 @@ Quelques phrases que je voulais placer :
 - `Si ça ne rentre pas, ce n'est pas la boite qui est trop étroite, c'est votre esprit`
 - `Pourquoi réfléchir quand on peut penser ?`
 - `La logique est illogique à partir du moment où elle est logique`
+- `Le bonheur ne se résume pas à être heureux, mais aussi rendre heureux`
