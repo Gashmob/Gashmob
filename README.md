@@ -6,7 +6,7 @@ Je suis étudiant en 2ème année à l'Ensimag dans la filière Ingénierie des 
 
 ---
 
-En ce moment je bosse sur un gros projet : **[Fil](https://github.com/Gashmob/Fil)**, un langage de programmation entier que j'ai l'intention d'utiliser ensuite pour faire un système d'exploitation utilisable.
+En ce moment je bosse sur un gros projet : **[Fil](https://github.com/Fil-Language)**, un langage de programmation entier que j'ai l'intention d'utiliser ensuite pour faire un système d'exploitation utilisable.
 
 ---
 
