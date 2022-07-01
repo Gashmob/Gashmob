@@ -9,13 +9,13 @@ Mes projets terminés :
 - Un [logger](https://github.com/Gashmob/Logger) réalisé en plusieurs langages (Java, Kotlin, C, C++, Python). Il utilise toujours le même principe. Je suis entrain de rajouter un pipeline de tests.
 - **[Feeljob](https://github.com/Gashmob/Feeljob)** un site web de mise en relation entre chercheurs d'emploi et entreprise mais aussi entre particulier et auto-entrepreneur. Il s'agit de mon premier projet pour un client dans le cadre d'un module universitaire.
 - **[Fork](https://github.com/Gashmob/Fork)** un framework en php pour créer des sites web. Imaginé à partir de Symfony, il reste encore beaucoup de travail pour pouvoir l'utiliser pour de gros sites. Actuellement je l'utilise pour mon [site perso](https://ktraini.com).
+- **[CodeShare](https://github.com/Gashmob/CodeShare)** un site web de partage de code. Il en existe déjà beaucoup trop, alors pourquoi pas un de plus ?
 
 ---
 
 Mes projets en cours :
 - **MyRestAPI** : un outil en ligne de commande (cli) qui permet de générer des API REST. Il existera aussi une interface web pour ceux qui n'aiment pas trop le terminal ou tout simplement pour partager des APIs. Le dépôt est encore en privé, il sera mis en public dès la première version utilisable.
 - **[Logger](https://github.com/Gashmob/Logger)** : Ajout d'un pipeline de tests. Les tests seront les mêmes pour les 5 langages, ils seront lancé via Github Action sur des environnements MacOS, Linux et Windows. Potentiel rajout d'une version en Go en fonction de la motivation et de l'interêt du rajout.
-- **[CodeShare](https://github.com/Gashmob/CodeShare)** : Correction de plusieurs bugs sur le clipboard. La version actuelle n'est utilisable que si le navigateur autorise l'utilisation du clipboard.
 
 ---
 
