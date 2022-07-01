@@ -6,10 +6,6 @@ Je suis étudiant en 2ème année à l'Ensimag dans la filière Ingénierie des 
 
 ---
 
-En ce moment je bosse sur un gros projet : **[Fil](https://github.com/Fil-Language)**, un langage de programmation entier que j'ai l'intention d'utiliser ensuite pour faire un système d'exploitation utilisable.
-
----
-
 Mes projets terminés :
 - **[RandomSentence](https://github.com/TP-TD-Informatique/RandomSentence)** une appli android réalisé dans le cadre d'un tp sur le sujet de *listes aléatoire*. Cette appli utilise un petit programme que j'avais déjà réalisé [Sentence Generator](https://github.com/Gashmob/Sentence-Generator)
 - Un [logger](https://gitlab.com/Asteomount/Logger) réalisé en plusieurs langages (Java, Kotlin, C, C++, Python). Il utilise toujours le même principe.
