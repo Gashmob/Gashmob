@@ -24,4 +24,4 @@ Quelques phrases que je voulais placer :
 - `Si ça ne rentre pas, ce n'est pas la boite qui est trop étroite, c'est votre esprit`
 - `Pourquoi réfléchir quand on peut penser ?`
 - `La logique est illogique à partir du moment où elle est logique`
-- `Le bonheur ne se résume pas à être heureux, mais aussi rendre heureux`
+- `Le bonheur ne se résume pas à être heureux, mais aussi à rendre heureux`
