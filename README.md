@@ -1,6 +1,6 @@
 ### Bienvenue sur mon profil Github !
 
-Je suis étudiant en 2ème année à l'Ensimag dans la filière Ingénierie des Systèmes d'Information. Le semestre prochain (automne 2022), je serais à l'université de Chalmers à Göteborg en Suède dans le cadre de la mobilité internationale de l'Ensimag.
+Je suis étudiant en 3ème année à l'Ensimag dans la filière Ingénierie des Systèmes d'Information. Actuellement je suis à l'université de Chalmers à Göteborg en Suède dans le cadre de la mobilité internationale de l'Ensimag.
 
 ---
 
