@@ -16,7 +16,7 @@ Finished projects:
 Current projects:
 - **MyRestAPI**: a web application that allows you to create, configure and share REST APIs. The result is a json file which is then passed to a command line tool (cli) which generates all the API code with documentation and tests. The documentation is also accessible directly from the web application.
 - **[Fork](https://github.com/Gashmob/Fork)**: a new version (3.0) starting from a brand new idea, I am no longer inspired by symfony. With this project come other projects, a markdown template engine and an ORM.
-- **[Fil](https://github.com/Fil-Language)**: a programmation language. I've some issues on the compiler with antlr [#3876](https://github.com/antlr/antlr4/issues/3876).
+- **[Fil](https://github.com/Fil-Language)**: a programmation language. A documentation is already available in french. Currently I work on the compiler made with Antlr and LLVM.
 
 ---
 
