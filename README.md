@@ -22,6 +22,6 @@ Current projects:
 A few sentences that I wanted to place:
 - `They didn't know it was impossible, so they did it`
 - `If it doesn't fit, it's not the box that's too narrow, it's your mind`
-- `Why think when you can think?`
+- `Why think when you can dream?`
 - `Logic is illogical as long as it is logical`
 - `Happiness is not only about being happy, but also about making people happy`
