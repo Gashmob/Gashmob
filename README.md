@@ -18,7 +18,7 @@ Current projects:
 
 - **[Fil](https://github.com/Fil-Language)**: a programmation language. A documentation is already available in french. Currently I work on the compiler made with Antlr and LLVM.
 - **[AVOW](https://github.com/Gashmob/AVOW)**: a cli for simple image treatment. In brief it's a collection of image treatment algorithms.
-- **Enquirer**: An interactive CLI library, inpired by the same name javascript library [Enquirer](https://www.npmjs.com/package/enquirer).
+- **[Enquirer](https://github.com/Gashmob/Enquirer)**: An interactive CLI library, inpired by the same name javascript library [Enquirer](https://www.npmjs.com/package/enquirer).
 - **Beaver**: An alternative to Thunderbird, I'm on the designing phase, so there is still no git.
 
 ---
