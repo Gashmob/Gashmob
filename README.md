@@ -6,7 +6,6 @@ I'm a 3rd year student at Ensimag in the Information Systems Engineering sector.
 
 Finished projects (finished as far as I can, some are still on work):
 
-- **[RandomSentence](https://github.com/TP-TD-Informatique/RandomSentence)** an android app made as part of a lab on the subject of *random lists*. This app use a little program that I've made [Sentence Generator](https://github.com/Gashmob/Sentence-Generator).
 - A **[Logger](https://github.com/Gashmob/Logger)** made in several languages (Java, Kotlin, C, C++, Python, Go). It still uses the same principle.
 - **[Fork](https://github.com/Gashmob/Fork)** a php framework to create websites. Currently I use it for my [personal website](https://ktraini.com).
 - **[CodeShare](https://github.com/Gashmob/CodeShare)** a code sharing website. There are already too many, so why not one more?
