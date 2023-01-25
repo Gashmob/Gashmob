@@ -24,3 +24,6 @@ A few sentences that I wanted to place:
 - `Why think when you can dream?`
 - `Logic is illogical as long as it is logical`
 - `Happiness is not only about being happy, but also about making people happy`
+
+
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gashmob&show_icons=true&theme=darcula)
