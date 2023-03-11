@@ -1,6 +1,6 @@
 ### Welcome on my Github profile !
 
-I'm a 3rd year student at Ensimag in the Information Systems Engineering sector. Currently I'm at Chalmers University in Gothenburg, Sweden as part of the international mobility of Ensimag.
+I'm a 3rd year student at Ensimag in the Information Systems Engineering sector. Currently I'm doing my final internship at Enalean.
 
 ---
 
