@@ -2,6 +2,8 @@
 
 I'm a 3rd year student at Ensimag in the Information Systems Engineering sector. Currently I'm doing my final internship at Enalean.
 
+You can sponsor me on my [Patreon](https://www.patreon.com/gashmob)
+
 ---
 
 Finished projects (finished as far as I can, some are still on work):
