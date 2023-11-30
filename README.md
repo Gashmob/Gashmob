@@ -13,5 +13,3 @@ Finished projects (finished as far as I can, some are still on work):
 - **[Fork](https://github.com/Gashmob/Fork)** a php framework to create websites. Currently I use it for my [personal website](https://ktraini.com).
 - **[CodeShare](https://github.com/Gashmob/CodeShare)** a code sharing website. There are already too many, so why not one more?
 - **[Enquirer](https://github.com/Gashmob/Enquirer)**: An interactive CLI library in C++, inspired by the same name javascript library [Enquirer](https://www.npmjs.com/package/enquirer).
-
-You can sponsor me on my [Patreon](https://www.patreon.com/gashmob)
