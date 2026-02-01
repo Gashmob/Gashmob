@@ -2,7 +2,7 @@
 
 Current projects:
 
-- **[Fil](https://github.com/Fil-Language)**: a programming language
+- **[fil](https://github.com/gashmob/fil)**: a programming language
 
 ---
 
