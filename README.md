@@ -16,4 +16,4 @@ Finished projects (finished as far as I can, some are still on work):
 
 ---
 
-You can retrieve some of my work on [home.ktraini.com](https://home.ktraini.com) and on my portfolio [ktraini.com](https://ktraini.com).
+You can retrieve some of my work on my portfolio [ktraini.com](https://ktraini.com).
