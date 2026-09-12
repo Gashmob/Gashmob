@@ -8,6 +8,7 @@ Current projects:
 
 Finished projects (finished as far as I can, some are still on work):
 
+- **[template-gettext-extractor](https://github.com/Gashmob/template-gettext-extractor)**: A tool to extract gettext strings from mustache templates
 - **[CrossedFingers](https://github.com/Gashmob/CrossedFingers)**: a C++ test framework
 - **[YesChief!](https://github.com/Gashmob/YesChief)**: a C++ library to manage options and commands of programs.
 - **[Archict](https://github.com/Archict)**: a PHP framework.
